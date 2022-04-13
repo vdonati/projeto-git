@@ -1,0 +1,23 @@
+Link download git hub e git bash 
+
+https://desktop.github.com
+
+https://gitforwindows.org
+
+Criado em 2008, GitHub é uma plataforma de hospedagem de código-fonte e arquivos com controle de versão usando o Git. 
+Ele permite que programadores, utilitários ou qualquer usuário cadastrado na plataforma contribuam em projetos privados e/ou Open Source de qualquer lugar do mundo. 
+
+
+Introdução ao GitHub
+
+Aula 1/2  https://www.youtube.com/watch?v=DqTITcMq68k
+Aula 2/2  https://www.youtube.com/watch?v=UBAX-13g8OM
+
+Personalizando o seu perfil no Git 
+https://www.youtube.com/watch?v=TsaLQAetPLU
+
+Entendendo o Git
+https://www.youtube.com/watch?v=6Czd1Yetaac
+
+Aperfeiçoando o repositório 
+https://www.youtube.com/watch?v=6OokP-NE49k
